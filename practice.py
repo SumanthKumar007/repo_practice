@@ -1,0 +1,1 @@
+print("friday 10pm")
